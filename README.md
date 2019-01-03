@@ -2,7 +2,7 @@
 
 OVERVIEW
 --------------------------------------------------
-The purpose of this project was to implement a Hangman game in ICMC Assembly for the [Computer Organization and Architecture] course. ICMC Assembly is a simplified assembly implementation for academic purposes. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
+The purpose of this project was to implement a retro game in ICMC Assembly for the [Computer Organization and Architecture] course. ICMC Assembly is a simplified assembly implementation for academic purposes. It was made at the Computer Science undergraduate program from University of São Paulo (ICMC - USP).
 
 ![Screenshot 1](img/img1.png)
 
