@@ -44,4 +44,6 @@ Assembling and Running the Game:
 
 	2. ./sim hangman.mif charmap.mif
 	Note: The charmap.mif file is included in this repository, you need to extract it.
+	
+	3. After opening the simulator window, press HOME key to start.
 ```
